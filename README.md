@@ -74,12 +74,12 @@ while(dev.isCoding())
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
 </p>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcommics&show_icons=true&locale=en&layout=compact" alt="dcommics" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcommics&show_icons=true&locale=en&layout=compact" alt="dcommics" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dcommics&show_icons=true&locale=en" alt="dcommics" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dcommics&" alt="dcommics" /></p>
--->
+
 <!--
 **dCOMMICS/dCOMMICS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
