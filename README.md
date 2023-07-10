@@ -51,6 +51,7 @@ while(dev.isCoding())
 <p align="center">Feel free reaching out to me at following platforms:</p>
 
 <p align="center">
+
   
  <!--
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="craig-dallurs-182811269" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/craig-dallurs-182811269?trk=profile-badge">Craig Dallurs</a></div>
